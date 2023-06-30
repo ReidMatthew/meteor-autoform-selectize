@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'comerc:autoform-selectize',
+  name: 'ReidMatthew:autoform-selectize',
   summary: 'Custom "selectize" input type for AutoForm',
-  version: '2.3.2',
-  git: 'https://github.com/comerc/meteor-autoform-selectize.git'
+  version: '2.3.3',
+  git: 'https://github.com/ReidMatthew/meteor-autoform-selectize.git'
 });
 
 Package.onUse(function(api) {
